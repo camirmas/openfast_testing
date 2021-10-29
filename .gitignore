@@ -1,0 +1,6 @@
+*.autosave
+slprj/
+*.m~
+report_data/FAST_output_files
+report_data/comparison_plots
+report_data/FAST_input_files/*.outb
